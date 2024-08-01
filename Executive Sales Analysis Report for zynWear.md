@@ -1,4 +1,5 @@
 ## Sales Analysis Report for zynWear
+#### This dataset is artifically generated and downloaded from Kaggle.com
 
 ### **Executive Summary**
 This report provides an in-depth analysis of sales trends at zynWear, focusing on categories, seasons, genders, items, and other relevant metrics. The goal is to identify patterns and provide actionable recommendations to optimize sales strategies.

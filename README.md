@@ -4,3 +4,4 @@ Excel analysis with dashboard analyzing customer shopping trends.
 
 # Dataset Info
 - Kaggle: [fathyfathysahlool](https://www.kaggle.com/code/fathyfathysahlool/customer-shopping-trends)
+- This is an artifical dataset.
